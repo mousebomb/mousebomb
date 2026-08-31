@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://avatars.githubusercontent.com/u/714358?v=4)
+
 #  鼠标炸弹 · Mousebomb
 
 **独立开发者 · 深圳 · 16 年游戏/软件开发老兵**
@@ -20,17 +22,6 @@
 - 🎮 **2010 – 2017** · 3D MMO 页游开发，写过 3D 地形编辑器、游戏框架、Away3D 等引擎定制
 - 📱 **2014 – 2017** · 手机单机小游戏广告变现，自研自动生成游戏引擎，团队累计 **1 亿 +** 下载
 - 🚀 **2017 – 至今** · 全栈开发，重度拥抱 AI 协作，快速打磨各种产品和工具
-
----
-
-## 🔭 部分公开项目
-
-- [**paseo-solarized-light**](https://github.com/mousebomb/paseo-solarized-light) · Paseo Solarized Light 应用主题插件
-- [**shei-shi-wodi**](https://github.com/mousebomb/shei-shi-wodi) · 驱动大模型玩《谁是卧底》
-- [**storybook-gen**](https://github.com/mousebomb/storybook-gen) · 用 Mimo-TTS 免费 AI 合成有声书
-- [**opencode-go-limits**](https://github.com/mousebomb/opencode-go-limits) · OpenCode Go 每月请求数估算工具（单文件 HTML）
-- [**obsidian-diary-ics**](https://github.com/mousebomb/obsidian-diary-ics) · 将 Obsidian 日记同步到系统日历
-- [**mousebomb_as3lib**](https://github.com/mousebomb/mousebomb_as3lib) · 老本行 ActionScript 3 类库
 
 ---
 
