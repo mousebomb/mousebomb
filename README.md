@@ -42,9 +42,9 @@
 
 ## 📊 GitHub 数据
 
-![Mousebomb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mousebomb&show_icons=true&theme=nord&hide_title=true)
+![Mousebomb's GitHub stats](https://github-readme-stats-eight-drab-34.vercel.app/api?username=mousebomb&show_icons=true&theme=nord&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=nord)
 
 ## 📈 贡献日历
 
