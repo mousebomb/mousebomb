@@ -13,6 +13,9 @@ jobs:
   contributions:
     runs-on: ubuntu-latest
     steps:
+      # 检出仓库：metrics 生成 SVG 和 blog-post-workflow 更新 README 都需要本地工作区
+      - uses: actions/checkout@v4
+
       # 用 lowlighter/metrics 的 isocalendar 插件生成等轴测 3D 贡献日历
       # 注：原 jasonlong/isometric-contributions 已转型为浏览器扩展，GitHub Action 已不可用，故改用此替代方案
       - name: 生成 3D 贡献日历
@@ -25,15 +28,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # 用 metrics 的 rss 插件生成博客最新文章卡片
+      # 用 blog-post-workflow 在 README 的 BLOG-POST-LIST 标记处渲染博客最近文章
+      # 纯 Markdown 列表可点击跳转 flashj.cn 原文，链接取 feed 条目 link 原值
       # 源用 mousebomb.github.io 仓库镜像的 atom.xml，避免 workflow 直连 flashj.cn 的稳定性问题
-      - name: 生成博客文章卡片
-        uses: lowlighter/metrics@latest
+      - name: 更新博客文章列表
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          filename: blog-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: mousebomb
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://raw.githubusercontent.com/mousebomb/mousebomb.github.io/master/atom.xml
-          plugin_rss_limit: 5
+          feed_list: https://raw.githubusercontent.com/mousebomb/mousebomb.github.io/master/atom.xml
+          max_post_count: 5
+          template: "- [$title]($url) - $date"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: 更新博客文章列表"

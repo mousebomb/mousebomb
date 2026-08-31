@@ -50,7 +50,8 @@
 
 ## 📝 最新博客文章
 
-![Recent blog posts](blog-metrics.svg)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
