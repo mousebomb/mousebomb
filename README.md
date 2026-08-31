@@ -42,9 +42,11 @@
 
 ## 📊 GitHub 数据
 
-![Top Langs](https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=nord&exclude_repo=mousebomb.github.io)
-
-## 📈 贡献日历
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=nord&exclude_repo=mousebomb.github.io" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=default&exclude_repo=mousebomb.github.io&theme=default" />
+  <img src="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=default&exclude_repo=mousebomb.github.io" />
+</picture>
 
 ![Isometric contribution calendar](github-metrics.svg)
 
