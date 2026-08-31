@@ -48,6 +48,10 @@
 
 ![Isometric contribution calendar](github-metrics.svg)
 
+## 📝 最新博客文章
+
+![Recent blog posts](blog-metrics.svg)
+
 ---
 
 ## 🌐 找到我

@@ -24,3 +24,16 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      # 用 metrics 的 rss 插件生成博客最新文章卡片
+      # 源用 mousebomb.github.io 仓库镜像的 atom.xml，避免 workflow 直连 flashj.cn 的稳定性问题
+      - name: 生成博客文章卡片
+        uses: lowlighter/metrics@latest
+        with:
+          filename: blog-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: mousebomb
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://raw.githubusercontent.com/mousebomb/mousebomb.github.io/master/atom.xml
+          plugin_rss_limit: 5
