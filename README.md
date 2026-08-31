@@ -27,7 +27,7 @@
 
 ## 🛠️ 技术栈
 
-**语言**（按 GitHub 代码占比排序）
+
 
 ![](https://img.shields.io/badge/-C%23-178600?style=flat-square&logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=cplusplus&logoColor=fff)
@@ -36,13 +36,11 @@
 ![](https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=000)
 ![](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logoColor=fff)
-![](https://img.shields.io/badge/-TSQL-E38C00?style=flat-square&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-B07219?style=flat-square&logoColor=fff)
 ![](https://img.shields.io/badge/-Objective--C%2B%2B-6866FB?style=flat-square&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 
-**框架与工具**
 
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
@@ -61,14 +59,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&theme=dark&exclude_repo=mousebomb.github.io&langs_count=10&card_width=480&hide_border=true"
+    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&theme=dark&exclude_repo=mousebomb.github.io&langs_count=10&card_width=440&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&exclude_repo=mousebomb.github.io&langs_count=10&card_width=480&hide_border=true"
+    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&exclude_repo=mousebomb.github.io&langs_count=10&card_width=440&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&exclude_repo=mousebomb.github.io&langs_count=10&card_width=480&hide_border=true" />
+  <img src="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&exclude_repo=mousebomb.github.io&langs_count=10&card_width=440&hide_border=true" />
 </picture>
 
 ## 📝 最新博客文章
