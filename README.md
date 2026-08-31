@@ -42,19 +42,19 @@
 
 ## 📊 GitHub 数据
 
+![Isometric contribution calendar](github-metrics.svg)
+
 <picture>
   <source
-    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&show_icons=true&theme=nord&exclude_repo=mousebomb.github.io"
+    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&theme=nord&exclude_repo=mousebomb.github.io&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&show_icons=true&exclude_repo=mousebomb.github.io"
+    srcset="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&exclude_repo=mousebomb.github.io&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&show_icons=true&exclude_repo=mousebomb.github.io" />
+  <img src="https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&hide_title=true&exclude_repo=mousebomb.github.io&langs_count=10" />
 </picture>
-
-![Isometric contribution calendar](github-metrics.svg)
 
 ## 📝 最新博客文章
 
