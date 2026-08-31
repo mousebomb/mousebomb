@@ -36,6 +36,6 @@ jobs:
         with:
           feed_list: https://raw.githubusercontent.com/mousebomb/mousebomb.github.io/master/atom.xml
           max_post_count: 5
-          template: "- [$title]($url) - $date"
+          template: "- [$title]($url) - $date$newline"
           date_format: "yyyy-mm-dd"
           commit_message: "chore: 更新博客文章列表"
