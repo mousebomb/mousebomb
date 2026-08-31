@@ -2,7 +2,7 @@
 
 
 
-# 鼠标炸弹 · Mousebomb
+# 💣 鼠标炸弹 · Mousebomb
 
 **独立开发者 · 深圳 · 16 年游戏/软件开发老兵**
 
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub 数据
 
-![Top Langs](https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats-eight-drab-34.vercel.app/api/top-langs/?username=mousebomb&layout=compact&theme=nord&exclude_repo=mousebomb.github.io)
 
 ## 📈 贡献日历
 
