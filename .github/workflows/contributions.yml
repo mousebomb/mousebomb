@@ -1,0 +1,35 @@
+name: 贡献日历
+
+# 每天自动更新 3D 贡献日历 github-metrics.svg，也可手动触发
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 生成等轴测 3D 贡献日历，配色使用柔和的 Solarized 风格
+      - name: 生成 3D 贡献日历
+        uses: jasonlong/isometric-contributions@v1.1.0
+        with:
+          color-background: '#fdf6e3'
+          color-foreground: '#2aa198'
+          show-month: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 提交新生成的 SVG，无变化则跳过
+      - name: 提交更新
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add github-metrics.svg
+          git commit -m 'chore: 更新贡献日历' || exit 0
+          git push
