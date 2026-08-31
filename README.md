@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://avatars.githubusercontent.com/u/714358?v=4)
+![](https://avatars.githubusercontent.com/u/714358?v=4&s=256)
 
 #  鼠标炸弹 · Mousebomb
 
