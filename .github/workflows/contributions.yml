@@ -3,7 +3,8 @@ name: 贡献日历
 # 每天自动更新 3D 贡献日历 github-metrics.svg，也可手动触发
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # 每天 UTC 19:14 = 北京时间次日 3:14，避开整点高峰减少 schedule 延迟/丢弃
+    - cron: '14 19 * * *'
   workflow_dispatch:
 
 permissions:
