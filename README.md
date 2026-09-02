@@ -82,15 +82,15 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 > ℹ️ 我的博客以中文写作 · My blog is written in Chinese. Non-Chinese readers can skim the titles with a browser translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Paseo Solarized Light 主题插件：低对比度护眼，GitHub 一行命令安装](https://flashj.cn/paseo-solarized-light.html) - 2026-09-01
+
 - [把 CommandCode goat 套餐接进 opencode：两步配置 + zdr 自定义请求头](https://flashj.cn/opencode-goat-commandcode-config.html) - 2026-08-31
+
+- [OpenCode Go 套餐用量估算，一个页面看全所有模型](https://flashj.cn/opencode-go-limits.html) - 2026-08-29
 
 - [DeepSeek Harness 和 Qwen3.8 都不是我的刚需](https://flashj.cn/no-more-fomo-dsh-qwen38.html) - 2026-08-23
 
 - [接入 OpenViking，统一 OpenCode 和 Hermes 的记忆](https://flashj.cn/openviking-setup.html) - 2026-08-02
-
-- [娱乐至死的人类和下一个世代的媒体](https://flashj.cn/next-gen-media-generative-narrative.html) - 2026-07-31
-
-- [从飞书和豆包合并想到的](https://flashj.cn/feishu-doubao-merger-thoughts.html) - 2026-07-31
 <!-- BLOG-POST-LIST:END -->
 
 ---
