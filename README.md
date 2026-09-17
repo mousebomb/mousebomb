@@ -82,6 +82,8 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 > ℹ️ 我的博客以中文写作 · My blog is written in Chinese. Non-Chinese readers can skim the titles with a browser translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 大模型能力对人类的策略影响](https://flashj.cn/llm-boundary-human-reserve.html) - 2026-09-17
+
 - [该让 AI 删文件前先进废纸篓了](https://flashj.cn/macos-trash-instead-of-rm.html) - 2026-09-15
 
 - [GOAT套餐接opencode后切换思考强度的配置](https://flashj.cn/opencode-goat-reasoning-variants.html) - 2026-09-02
@@ -89,8 +91,6 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 - [Paseo Solarized Light 主题插件：低对比度护眼，GitHub 一行命令安装](https://flashj.cn/paseo-solarized-light.html) - 2026-09-01
 
 - [把 CommandCode goat 套餐接进 opencode：两步配置 + zdr 自定义请求头](https://flashj.cn/opencode-goat-commandcode-config.html) - 2026-08-31
-
-- [OpenCode Go 套餐用量估算，一个页面看全所有模型](https://flashj.cn/opencode-go-limits.html) - 2026-08-29
 <!-- BLOG-POST-LIST:END -->
 
 ---
