@@ -48,7 +48,7 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 
 - [把 CommandCode goat 套餐接进 opencode：两步配置 + zdr 自定义请求头](https://flashj.cn/opencode-goat-commandcode-config.html) - 2026-08-31
   - [Wiring the CommandCode goat plan into opencode: two-step setup + a zdr custom request header](https://flashj.cn/en/opencode-goat-commandcode-config.html)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
   
 
 ---
