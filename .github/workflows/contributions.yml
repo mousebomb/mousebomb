@@ -1,6 +1,6 @@
 name: 贡献日历
 
-# 每天自动更新 3D 贡献日历 github-metrics.svg，也可手动触发
+# 每天自动更新 3D 贡献日历 github-metrics.svg 和 README 博客文章列表，也可手动触发
 on:
   schedule:
     # 每天 UTC 19:14 = 北京时间次日 3:14，避开整点高峰减少 schedule 延迟/丢弃
@@ -14,7 +14,7 @@ jobs:
   contributions:
     runs-on: ubuntu-latest
     steps:
-      # 检出仓库：metrics 生成 SVG 和 blog-post-workflow 更新 README 都需要本地工作区
+      # 检出仓库：metrics 生成 SVG 和自定义脚本更新 README 都需要本地工作区
       - uses: actions/checkout@v4
 
       # 用 lowlighter/metrics 的 isocalendar 插件生成等轴测 3D 贡献日历
@@ -29,14 +29,26 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # 用 blog-post-workflow 在 README 的 BLOG-POST-LIST 标记处渲染博客最近文章
-      # 纯 Markdown 列表可点击跳转 flashj.cn 原文，链接取 feed 条目 link 原值
-      # 源用 mousebomb.github.io 仓库镜像的 atom.xml，避免 workflow 直连 flashj.cn 的稳定性问题
-      - name: 更新博客文章列表
-        uses: gautamkrishnar/blog-post-workflow@v1
+      # 用自定义脚本在 README 的 BLOG-POST-LIST 标记处渲染博客最近文章
+      # 同时抓取中英两个 feed，按 slug 配对成「中文标题 + 英文标题」两行对照
+      # 英文页地址按 flashj.cn/en 规则拼接，源用 mousebomb.github.io 仓库镜像
+      - name: 设置 Node 环境
+        uses: actions/setup-node@v4
         with:
-          feed_list: https://raw.githubusercontent.com/mousebomb/mousebomb.github.io/master/atom.xml
-          max_post_count: 5
-          template: "$newline- [$title]($url) - $date$newline"
-          date_format: "yyyy-mm-dd"
-          commit_message: "chore: 更新博客文章列表"
+          node-version: 20
+
+      - name: 更新博客文章列表（中英对照）
+        run: node scripts/update-blog-posts.mjs
+
+      - name: 提交更新
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "README 无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: 更新博客文章列表"
+          git pull --rebase --autostash
+          git push
