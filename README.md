@@ -34,20 +34,15 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 大模型能力对人类的策略影响](https://flashj.cn/llm-boundary-human-reserve.html) - 2026-09-17
-  - [The strategic impact of large AI model capabilities on humanity](https://flashj.cn/en/llm-boundary-human-reserve.html)
+- [AI 大模型能力对人类的策略影响](https://flashj.cn/llm-boundary-human-reserve.html) · [The strategic impact of large AI model capabilities on humanity](https://flashj.cn/en/llm-boundary-human-reserve.html) - 2026-09-17
 
-- [该让 AI 删文件前先进废纸篓了](https://flashj.cn/macos-trash-instead-of-rm.html) - 2026-09-15
-  - [It's Time to Make AI Put Files in the Trash Before Deleting Them](https://flashj.cn/en/macos-trash-instead-of-rm.html)
+- [该让 AI 删文件前先进废纸篓了](https://flashj.cn/macos-trash-instead-of-rm.html) · [It's Time to Make AI Put Files in the Trash Before Deleting Them](https://flashj.cn/en/macos-trash-instead-of-rm.html) - 2026-09-15
 
-- [GOAT套餐接opencode后切换思考强度的配置](https://flashj.cn/opencode-goat-reasoning-variants.html) - 2026-09-02
-  - [Configuring thinking-effort switching after hooking the GOAT plan up to opencode](https://flashj.cn/en/opencode-goat-reasoning-variants.html)
+- [GOAT套餐接opencode后切换思考强度的配置](https://flashj.cn/opencode-goat-reasoning-variants.html) · [Configuring thinking-effort switching after hooking the GOAT plan up to opencode](https://flashj.cn/en/opencode-goat-reasoning-variants.html) - 2026-09-02
 
-- [Paseo Solarized Light 主题插件：低对比度护眼，GitHub 一行命令安装](https://flashj.cn/paseo-solarized-light.html) - 2026-09-01
-  - [Paseo Solarized Light theme plugin: low contrast, easy on the eyes, install from GitHub with one command](https://flashj.cn/en/paseo-solarized-light.html)
+- [Paseo Solarized Light 主题插件：低对比度护眼，GitHub 一行命令安装](https://flashj.cn/paseo-solarized-light.html) · [Paseo Solarized Light theme plugin: low contrast, easy on the eyes, install from GitHub with one command](https://flashj.cn/en/paseo-solarized-light.html) - 2026-09-01
 
-- [把 CommandCode goat 套餐接进 opencode：两步配置 + zdr 自定义请求头](https://flashj.cn/opencode-goat-commandcode-config.html) - 2026-08-31
-  - [Wiring the CommandCode goat plan into opencode: two-step setup + a zdr custom request header](https://flashj.cn/en/opencode-goat-commandcode-config.html)
+- [把 CommandCode goat 套餐接进 opencode：两步配置 + zdr 自定义请求头](https://flashj.cn/opencode-goat-commandcode-config.html) · [Wiring the CommandCode goat plan into opencode: two-step setup + a zdr custom request header](https://flashj.cn/en/opencode-goat-commandcode-config.html) - 2026-08-31
 <!-- BLOG-POST-LIST:END -->
   
 
@@ -56,7 +51,7 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 🌐 找到我 · Find Me
 
 - 🌍 个人网站 / Personal site：[mousebomb.org](https://www.mousebomb.org/)
-- 📝 博客 / Blog (Chinese)：[flashj.cn](https://www.flashj.cn/)
+- 📝 博客 / Blog：[flashj.cn](https://www.flashj.cn/)
 - ✉️ 邮箱 / Email：`mousebomb@gmail.com`
 
 > Open to interesting collaborations and opportunities.
