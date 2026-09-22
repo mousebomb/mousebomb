@@ -34,6 +34,8 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jev 不是新物种：它是个分类器，别跟着自媒体嗨](https://flashj.cn/jev-zero-shot-classifier.html) · [Jev isn't a new species: it's a classifier, so don't ride the self-media hype](https://flashj.cn/en/jev-zero-shot-classifier.html) - 2026-09-22
+
 - [飞书官方 MCP 导致内存泄露：lark-mcp 孤儿进程排查](https://flashj.cn/lark-mcp-memory-leak-from-orphan-processes.html) · [Feishu's official MCP causes a memory leak: tracking down orphan processes from lark-mcp](https://flashj.cn/en/lark-mcp-memory-leak-from-orphan-processes.html) - 2026-09-20
 
 - [AI 大模型能力对人类的策略影响](https://flashj.cn/llm-boundary-human-reserve.html) · [The strategic impact of large AI model capabilities on humanity](https://flashj.cn/en/llm-boundary-human-reserve.html) - 2026-09-17
@@ -41,8 +43,6 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 - [该让 AI 删文件前先进废纸篓了](https://flashj.cn/macos-trash-instead-of-rm.html) · [It's Time to Make AI Put Files in the Trash Before Deleting Them](https://flashj.cn/en/macos-trash-instead-of-rm.html) - 2026-09-15
 
 - [GOAT套餐接opencode后切换思考强度的配置](https://flashj.cn/opencode-goat-reasoning-variants.html) · [Configuring thinking-effort switching after hooking the GOAT plan up to opencode](https://flashj.cn/en/opencode-goat-reasoning-variants.html) - 2026-09-02
-
-- [Paseo Solarized Light 主题插件：低对比度护眼，GitHub 一行命令安装](https://flashj.cn/paseo-solarized-light.html) · [Paseo Solarized Light theme plugin: low contrast, easy on the eyes, install from GitHub with one command](https://flashj.cn/en/paseo-solarized-light.html) - 2026-09-01
 <!-- BLOG-POST-LIST:END -->
   
 
