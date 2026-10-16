@@ -34,15 +34,15 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TRAE committed code for me — why is it signed as Claude?](https://flashj.cn/en/en/trae-signed-commit-as-claude.html) - 2026-10-16
+
+- [TRAE 替我提交代码，怎么署名成了 Claude？](https://flashj.cn/trae-signed-commit-as-claude.html) - 2026-10-16
+
 - [PhotoCraft and REA: The software industry is starting to change](https://flashj.cn/en/en/photocraft-rea-software-industry-change.html) - 2026-10-13
 
 - [PhotoCraft 与 REA：软件行业正在起变化](https://flashj.cn/photocraft-rea-software-industry-change.html) - 2026-10-13
 
 - [Laurel's Little Water Cup](https://flashj.cn/en/en/laurel-water-cup.html) - 2026-10-13
-
-- [睿睿的小水杯](https://flashj.cn/laurel-water-cup.html) - 2026-10-13
-
-- [Jev isn't a new species: it's a classifier, so don't ride the self-media hype](https://flashj.cn/en/en/jev-zero-shot-classifier.html) - 2026-09-22
 <!-- BLOG-POST-LIST:END -->
   
 
