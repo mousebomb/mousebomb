@@ -34,15 +34,15 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No more notification sounds after upgrading to OpenCode V2: the opencode-notifier delivery trap](https://flashj.cn/en/en/opencode-notifier-v2-delivery-silent.html) - 2026-10-19
+
+- [升级到 OpenCode V2 后提示音没了：opencode-notifier 的 delivery 陷阱](https://flashj.cn/opencode-notifier-v2-delivery-silent.html) - 2026-10-19
+
+- [Paseo's plugin directory](https://flashj.cn/en/en/paseo-plugins.html) - 2026-10-19
+
+- [Paseo的插件目录](https://flashj.cn/paseo-plugins.html) - 2026-10-19
+
 - [TRAE committed code for me — why is it signed as Claude?](https://flashj.cn/en/en/trae-signed-commit-as-claude.html) - 2026-10-16
-
-- [TRAE 替我提交代码，怎么署名成了 Claude？](https://flashj.cn/trae-signed-commit-as-claude.html) - 2026-10-16
-
-- [PhotoCraft and REA: The software industry is starting to change](https://flashj.cn/en/en/photocraft-rea-software-industry-change.html) - 2026-10-13
-
-- [PhotoCraft 与 REA：软件行业正在起变化](https://flashj.cn/photocraft-rea-software-industry-change.html) - 2026-10-13
-
-- [Laurel's Little Water Cup](https://flashj.cn/en/en/laurel-water-cup.html) - 2026-10-13
 <!-- BLOG-POST-LIST:END -->
   
 
