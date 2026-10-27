@@ -42,19 +42,24 @@ async function fetchAtom(url) {
 }
 
 // 用文章路径（slug）作为配对键，中英两版 slug 相同
-const slugOf = (link) => new URL(link).pathname
-// 英文页地址规则：在中文路径前加 /en（英文 feed 里的 link 未带 /en，故这里自行拼）
-const enUrlOf = (link) => `https://flashj.cn/en${new URL(link).pathname}`
+// 英文 feed 的 link 现已自带 /en 前缀，配对前必须去掉，否则中英两版永远不会配上
+const slugOf = (link) => new URL(link).pathname.replace(/^\/en(\/|$)/, '/')
+// 英文页地址规则：flashj.cn/en + 纯 slug 路径（统一重新拼，避免出现 /en/en 重复前缀）
+const enUrlOf = (pathname) => `https://flashj.cn/en${pathname}`
 
 function render(items) {
   return items
     .slice(0, MAX_POSTS)
     .map(({ cn, en }) => {
       const date = (cn?.published ?? en.published).slice(0, 10)
-      // 中英标题同行渲染，日期置于行末；缺哪一版就只渲染存在的那一版
-      if (cn && en) return `- [${cn.title}](${cn.link}) · [${en.title}](${enUrlOf(cn.link)}) - ${date}`
+      // 与上方硬编码内容格式一致：中文做列表项并带日期，英文缩进成子项，一对一组
+      // 缺哪一版就只渲染存在的那一版
+      if (cn && en) {
+        const enUrl = enUrlOf(slugOf(cn.link))
+        return `- [${cn.title}](${cn.link}) - ${date}\n  - [${en.title}](${enUrl})`
+      }
       if (cn) return `- [${cn.title}](${cn.link}) - ${date}`
-      return `- [${en.title}](${enUrlOf(en.link)}) - ${date}`
+      return `- [${en.title}](${enUrlOf(slugOf(en.link))}) - ${date}`
     })
     .join('\n\n')
 }

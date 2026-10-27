@@ -34,15 +34,20 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clearing out a decade of accumulated site legacy, and saying goodbye to PHP5.6](https://flashj.cn/en/en/php5-no-patch-legacy-cleanup.html) - 2026-10-22
-
 - [清理堆积十余年的站点遗产，送走 PHP5.6](https://flashj.cn/php5-no-patch-legacy-cleanup.html) - 2026-10-22
-
-- [No more notification sounds after upgrading to OpenCode V2: the opencode-notifier delivery trap](https://flashj.cn/en/en/opencode-notifier-v2-delivery-silent.html) - 2026-10-19
+  - [Clearing out a decade of accumulated site legacy, and saying goodbye to PHP5.6](https://flashj.cn/en/php5-no-patch-legacy-cleanup.html)
 
 - [升级到 OpenCode V2 后提示音没了：opencode-notifier 的 delivery 陷阱](https://flashj.cn/opencode-notifier-v2-delivery-silent.html) - 2026-10-19
+  - [No more notification sounds after upgrading to OpenCode V2: the opencode-notifier delivery trap](https://flashj.cn/en/opencode-notifier-v2-delivery-silent.html)
 
-- [Paseo's plugin directory](https://flashj.cn/en/en/paseo-plugins.html) - 2026-10-19
+- [Paseo的插件目录](https://flashj.cn/paseo-plugins.html) - 2026-10-19
+  - [Paseo's plugin directory](https://flashj.cn/en/paseo-plugins.html)
+
+- [TRAE 替我提交代码，怎么署名成了 Claude？](https://flashj.cn/trae-signed-commit-as-claude.html) - 2026-10-16
+  - [TRAE committed code for me — why is it signed as Claude?](https://flashj.cn/en/trae-signed-commit-as-claude.html)
+
+- [PhotoCraft 与 REA：软件行业正在起变化](https://flashj.cn/photocraft-rea-software-industry-change.html) - 2026-10-13
+  - [PhotoCraft and REA: The software industry is starting to change](https://flashj.cn/en/photocraft-rea-software-industry-change.html)
 <!-- BLOG-POST-LIST:END -->
   
 
