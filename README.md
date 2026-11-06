@@ -34,6 +34,9 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI的80分之后](https://flashj.cn/ai-80-fen-zhi-hou.html) - 2026-11-05
+  - [After AI's 80 Points](https://flashj.cn/en/ai-80-fen-zhi-hou.html)
+
 - [清理堆积十余年的站点遗产，送走 PHP5.6](https://flashj.cn/php5-no-patch-legacy-cleanup.html) - 2026-10-22
   - [Clearing out a decade of accumulated site legacy, and saying goodbye to PHP5.6](https://flashj.cn/en/php5-no-patch-legacy-cleanup.html)
 
@@ -45,9 +48,6 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 
 - [TRAE 替我提交代码，怎么署名成了 Claude？](https://flashj.cn/trae-signed-commit-as-claude.html) - 2026-10-16
   - [TRAE committed code for me — why is it signed as Claude?](https://flashj.cn/en/trae-signed-commit-as-claude.html)
-
-- [PhotoCraft 与 REA：软件行业正在起变化](https://flashj.cn/photocraft-rea-software-industry-change.html) - 2026-10-13
-  - [PhotoCraft and REA: The software industry is starting to change](https://flashj.cn/en/photocraft-rea-software-industry-change.html)
 <!-- BLOG-POST-LIST:END -->
   
 
