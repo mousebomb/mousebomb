@@ -34,6 +34,9 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [知识小镇：给女儿做的数学大富翁](https://flashj.cn/studytown.html) - 2026-11-06
+  - [Knowledge Town: A Math Monopoly I Made for My Daughter](https://flashj.cn/en/studytown.html)
+
 - [AI的80分之后](https://flashj.cn/ai-80-fen-zhi-hou.html) - 2026-11-05
   - [After AI's 80 Points](https://flashj.cn/en/ai-80-fen-zhi-hou.html)
 
@@ -45,9 +48,6 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 
 - [Paseo的插件目录](https://flashj.cn/paseo-plugins.html) - 2026-10-19
   - [Paseo's plugin directory](https://flashj.cn/en/paseo-plugins.html)
-
-- [TRAE 替我提交代码，怎么署名成了 Claude？](https://flashj.cn/trae-signed-commit-as-claude.html) - 2026-10-16
-  - [TRAE committed code for me — why is it signed as Claude?](https://flashj.cn/en/trae-signed-commit-as-claude.html)
 <!-- BLOG-POST-LIST:END -->
   
 
