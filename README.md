@@ -35,7 +35,7 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 
 <!-- BLOG-POST-LIST:START -->
 - [知识小镇：给女儿做的数学大富翁](https://flashj.cn/studytown.html) - 2026-11-06
-  - [Knowledge Town: A Math Monopoly I Made for My Daughter](https://flashj.cn/en/studytown.html)
+  - [Study Town: A Math Monopoly I Made for My Daughter](https://flashj.cn/en/studytown.html)
 
 - [AI的80分之后](https://flashj.cn/ai-80-fen-zhi-hou.html) - 2026-11-05
   - [After AI's 80 Points](https://flashj.cn/en/ai-80-fen-zhi-hou.html)
