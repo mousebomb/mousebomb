@@ -34,6 +34,9 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 ## 📝 最新博客文章 · Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从AI发展视角对教育减负的一点思考](https://flashj.cn/shuangjian-education-rlhf-to-rlvr.html) - 2026-11-26
+  - [Easing the Academic Burden: A View from AI's Evolution](https://flashj.cn/en/shuangjian-education-rlhf-to-rlvr.html)
+
 - [睿睿与氛围创作](https://flashj.cn/laurel-vibe-creation.html) - 2026-11-22
   - [Laurel's Vibe Creations](https://flashj.cn/en/laurel-vibe-creation.html)
 
@@ -45,9 +48,6 @@ Born in the late 80s, Aquarius. A typical web junkie, workaholic and geek. Hardc
 
 - [清理堆积十余年的站点遗产，送走 PHP5.6](https://flashj.cn/php5-no-patch-legacy-cleanup.html) - 2026-10-22
   - [Clearing out a decade of accumulated site legacy, and saying goodbye to PHP5.6](https://flashj.cn/en/php5-no-patch-legacy-cleanup.html)
-
-- [升级到 OpenCode V2 后提示音没了：opencode-notifier 的 delivery 陷阱](https://flashj.cn/opencode-notifier-v2-delivery-silent.html) - 2026-10-19
-  - [No more notification sounds after upgrading to OpenCode V2: the opencode-notifier delivery trap](https://flashj.cn/en/opencode-notifier-v2-delivery-silent.html)
 <!-- BLOG-POST-LIST:END -->
   
 
